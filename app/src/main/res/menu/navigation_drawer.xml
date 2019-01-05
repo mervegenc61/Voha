@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_ogren"
+            android:icon="@drawable/ic_subject_black_24dp"
+            android:title="@string/ogren" />
+
+  <!--  <item
+        android:id="@+id/nav_oyna"
+        android:icon="@drawable/ic_games_black_24dp"
+        android:title="Oyna"></item>-->
+        <item
+            android:id="@+id/oduller"
+            android:icon="@drawable/ic_fifth"
+            android:title="@string/oduller"></item>
+        <item
+            android:id="@+id/liderler"
+            android:icon="@drawable/ic_second"
+            android:title="@string/skorTablosu"></item>
+        <item
+            android:id="@+id/nav_profil"
+            android:icon="@drawable/ic_face_black_24dp"
+            android:title="@string/profil" />
+    </group>
+
+    <item android:title="@string/iletisim">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/share_drawer"
+                android:title="@string/Paylas" />
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/feedback_drawer"
+                android:title="@string/geriDonus" />
+            <item
+                android:id="@+id/nav_Help"
+                android:icon="@drawable/help_drawer"
+                android:title="@string/yardim" />
+            <item
+                android:id="@+id/nav_aboutus"
+                android:icon="@drawable/about_us_drawer"
+                android:title="@string/iletisimeGec2" />
+        </menu>
+    </item>
+
+</menu>

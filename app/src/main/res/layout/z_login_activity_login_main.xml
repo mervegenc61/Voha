@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_weight="1"
+    tools:context="com.merve.voha.ZLoginActivity.LoginMainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical">
+       <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/lottielogo"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center_horizontal"
+            android:visibility="visible"
+            android:layout_alignParentEnd="true"
+            app:lottie_autoPlay="true"
+            app:lottie_loop="true"
+            android:layout_marginTop="50dp"
+            app:lottie_fileName="biking_is_cool.json"/>
+        <com.google.android.gms.common.SignInButton
+            android:id="@+id/sign_in_button"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="150dp">
+        </com.google.android.gms.common.SignInButton>
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/kaydol"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/register_oval_btn"
+            android:text="@string/emailKayit"
+            android:drawableLeft="@drawable/ic_email_black_24dp"
+            android:paddingLeft="5dp"
+            android:textAllCaps="true"
+            android:textColor="#ffff"/>
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/giris"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/login_oval_btn"
+            android:text="@string/girisYap"
+            android:textColor="#fff"
+            android:paddingLeft="5dp"
+            android:textAllCaps="true"
+            android:drawableLeft="@drawable/ic_person_black_24dp"
+
+            android:textSize="15dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>

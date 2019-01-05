@@ -1,0 +1,30 @@
+[  
+   {  
+     
+      "name":"Bilgisayarlar, hesaplamaları ve mantıksal kararlar vermeyi insanlardan milyonlarca hatta milyarlarca kez hızlı yapabilme yeteneğine sahip cihazlardır."
+
+   },
+   {  
+      
+      "name":"Yazılım,bilgisayara ne yapacağını söyleyen komutlar dizisidir."
+     
+   },
+   {  
+      
+      "name":"Belirli bir amaca ulaşmak için oluşturulan algoritmanın herhangi bir programlama dilinde yazılarak bilgisayar tarafından işlenmesine programlama denir."
+      
+   },
+    {
+        "name":"Programlama dillerini konuşma dilleri gibidir.Konuşma dili ile insanlara kendimizi ifade ederken programlama dili ile bilgisayara kendimizi ifade ederiz."
+    },
+    
+    {
+        "name":"Programlama dillerine örnek olarak C,C++,C#,Java,Python dillerini verebilirz. "
+    },
+    {
+        "name":"Algoritma,bir problemin çözümü için izlenecek yoldur.Örneğin -Uyan -Yataktan kalk -Pijamalarını çıkar -Duş al"
+    }
+    
+   
+   
+]

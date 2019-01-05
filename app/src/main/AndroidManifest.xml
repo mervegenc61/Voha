@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.merve.voha">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/a"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/a"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ZWelcomeActivity.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".ZLoginActivity.LoginActivity"
+                  android:screenOrientation="portrait"/>
+        <activity android:name=".ZLoginActivity.LoginMainActivity"
+                  android:screenOrientation="portrait"/>
+        <activity android:name=".ZLoginActivity.RegisterActivity"
+                  android:screenOrientation="portrait"/>
+        <activity android:name=".ZLoginActivity.NewPasswordActivity"
+                  android:screenOrientation="portrait"/>
+        <activity android:name=".JavaEgitimleri.MainActivity"
+                  android:screenOrientation="portrait"/>
+        <activity android:name=".NavigationDrawer.NavigationActivity"
+                  android:screenOrientation="portrait"/>
+        <activity android:name=".ZKarakterAyari.KarakterActivity"
+                  android:screenOrientation="portrait"/>
+        <activity android:name=".NavigationDrawer.BasariSiralamasi"
+                  android:screenOrientation="portrait"/>
+        <activity android:name=".ProfilActivity.ChangePasswordActivity"
+                  android:screenOrientation="portrait"/>
+        <activity android:name=".ProfilActivity.SettingsActivity"
+                  android:screenOrientation="portrait"/>
+        <activity android:name=".ZWelcomeActivity.OneScreenWelcomeActivity"
+                  android:screenOrientation="portrait"/>
+        <activity android:name=".NavigationDrawer.HelpActivity"
+                  android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".NavigationDrawer.OdullerActivity"
+                  android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".NavigationDrawer.AboutActivity"
+                  android:screenOrientation="portrait">
+        </activity>
+        <!-- [START firebase_service] -->
+        <service
+            android:name=".Notification.MyFirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <!-- [END firebase_service] -->
+        <!-- [START firebase_iid_service] -->
+        <service
+            android:name=".Notification.MyFirebaseInstanceIdService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+            </intent-filter>
+        </service>
+        <!-- [END firebase_iid_service] -->
+    </application>
+
+</manifest>

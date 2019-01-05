@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5F3B96</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="sari">#ffc000</color>
+    <color name="mor">#5F3B96</color>
+
+
+    <color name="colorIndivateTab">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="colorCardView">#f7f7f7</color>
+    <color name="grey_200">#EEEEEE</color>
+    <color name="grey_500">#a4a4a4</color>
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_800">#212121</color>
+   <color name="console">#C0C0C0</color>
+    <color name="fistikyesili">#95BA51</color>
+
+
+
+
+
+<!--welcome-->
+    <!-- Screens background color-->
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#c873f4</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="dot_dark_screen2">#14a895</color>
+    <color name="dot_dark_screen3">#2278d4</color>
+    <color name="dot_dark_screen4">#a854d4</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#93c6fd</color>
+    <color name="dot_light_screen4">#e4b5fc</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+    <!--welcome-->
+
+
+    <color name="sari_profil">#F59870</color>
+    <color name="mor_profil">#3F2E55</color>
+    <color name="beyaz">#fff</color>
+    <color name="yesil">#4ace83</color>
+    <color name="pembe">#DB5474</color>
+
+    <color name="murdum">#992760</color>
+
+
+
+    <color name="turuncu">#FF5733</color>
+    <color name="sarii">#ffc300</color>
+    <color name="turuncu3">#F49600</color>
+    <color name="pembee">#C70039</color>
+    <color name="mor2">#571845</color>
+    <color name="mor3">#900C3E</color>
+    <color name="turkuaz">#00A5A9</color>
+
+
+
+
+
+    <color name="zmavi">#22C1FF</color>
+    <color name="zsari">#FFB407</color>
+    <color name="zkirmizi">#FF5846</color>
+    <color name="zyesil">#6EC835</color>
+    <color name="zlacivert">#1E1C39</color>
+    <color name="zpembe">#FFA9C3</color>
+    <color name="zmor">#A283FF</color>
+    <color name="zaciksari">#FFDA00</color>
+
+
+    <color name="cmavi">#5ABAC3</color>
+    <color name="cmurdum">#422337</color>
+    <color name="cmor">#9C189F</color>
+    <color name="cturuncu">#FE615A</color>
+    <color name="ckoyumavi">#2A4EAE</color>
+    <color name="corange">#E57E21</color>
+    <color name="ckirmizi">#93060F</color>
+    <color name="ckoyumor">#4D0920</color>
+    <color name="cmavii">#2D93C3</color>
+    <color name="cpempe">#DD137C</color>
+
+    <color name="welcomeyesil">#12a652</color>
+</resources>
+

@@ -1,0 +1,442 @@
+<resources>
+    <string name="app_name">Voha</string>
+    <string name="gmail">GMAİL İLE OTURUM AÇ</string>
+
+
+    <!--welcome-->
+    <string name="title_activity_welcome" translatable="false">Home Screen</string>
+    <string name="next" translatable="false">NEXT</string>
+    <string name="skip" translatable="false">SKIP</string>
+    <string name="start" translatable="false">GOT IT</string>
+
+    <string name="slide_1_title">vohalingo\'ya hoşgeldiniz!</string>
+    <string name="slide_1_desc" translatable="false">Kodlama öğrenmenin en eğlenceli ve kolay yolu!</string>
+
+    <string name="slide_2_title" translatable="false">Eğlenerek kodlama öğrenmeye hazırmısın! </string>
+    <string name="slide_2_desc" translatable="false">Karakterini seçin ve öğrenmeye başlayın!</string>
+
+    <string name="slide_3_title" translatable="false">Kodlama öğrenmeye başlayın!</string>
+    <string name="slide_3_desc" translatable="false">Yolculuğunuz sırasında kodlama öğrenin!</string>
+
+    <string name="slide_4_title" translatable="false">Görevleri tamamlayın!</string>
+    <string name="slide_4_desc" translatable="false">En iyiler sıralamasında yerini alın!</string>
+
+    <string name="play_again_desc" translatable="false">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again" translatable="false">Play Again</string>
+    <!--welcome-->
+
+
+    <string name="global_title">ALGORİTMALAR</string>
+    <string name="alg">ALGORİTMALAR</string>
+
+    <string name="algoritma1"> En popüler programlama dili olan Java dilini öğrenmeye hazır mısın? \n \n  Hazırsan Başlayalım!</string>
+    <string name="algoritma2">Programlama dili dediğimiz şey bizler nasıl birbirimiz ile anlaşmak için Türkçe ,İngilizce ,Almanca gibi diller ile konuşabiliyorsak bilgisarlara da birşeyler anlatabilmek için programlama dilleri vardır.</string>
+    <string name="algoritma3">Programlama dillerinden bazıları:  \n C   \n C#  \n Java \n  Python \nJavascript </string>
+    <string name="algoritma4">Java adını bir kahve \n isminden almıştır.\nOldukça popüler bir \n programlama dilidir.</string>
+    <string name="algoritma5">Programlama öğrenmek için öncelikle algoritma mantığını bilmemiz gerekir. \n Öyleyse bu yolculuğa algoritma öğrenerek başlayalım</string>
+    <string name="algoritma6">Algoritma, belirli bir dizi işi belirli bir sıra ile yapmak için izlenen yoldur. \t \n Yataktan kalk  \n Dişlerini fırçala  \n Kahvaltını yap  \nServise bin  \nOkula git</string>
+    <string name="javagenel">Şimdi Java\'da bilmemiz gereken temel kodlama işlemlerine geçelim</string>
+    <string name="javagenel1">Java\'da ekrana yazı yazmak için java dilinde System.out.print() ifadesi kullanılır.</string>
+    <string name="javagenel2">System.out.println(); ifadesi ise ekrana yazdırılanları satır atlayarak yazdırır.</string>
+    <string name="javagenel13">System.out.printf(çıkış formatı,çıktı alınacak ifade) ; \n şeklinde çalışır.</string>
+
+    <string name="degisken1"> Merhaba bu eğitimde sana değişkenleri öğreteceğim  \nDeğişkenler programlama da olmazsa olmazlardandır  \nHaydi Başlayalım</string>
+    <string name="degisken2">Değişkenler gerçek hayatta kullandığımız ondalıklı sayılar , tam sayılar ,harfler , isimler gibi verilerin bilgisayar ortamındaki görüntüleridir.</string>
+    <string name="degisken3">Bu veri türlerini tutmak için tasarımlar vardır.Bunları öğrenmeye başlayalım! </string>
+    <string name="degisken4">Tam sayıları tutmak için : \nBYTE  \n SHORT  \n INTEGER  \n LONG</string>
+    <string name="degisken5">BYTE \n -128 ile 127 arasında değer alabilir yani bu byte tipinin 8 bitlik sayıları tutabildiğini söyler \nBurda karşımıza BİT kavramı çıkıyor  \n Nedir bu BİT? </string>
+    <string name="degisken6">BİT  \n Bilgisayarda veri depolama ve transferlerinde bit en küçük dosya birimidir.\n 1 BYTE = 8 BİT \n Yani 8 haneli bir sayıyı tutmak için 1 BYTE a  ihtiyacımız vardır.  </string>
+    <string name="degisken7">SHORT  \n 16 bitlik tam sayıları tutmaya yarayan veri tipidir.\n short m=5; \n şeklinde tanımlaması yapılır. </string>
+    <string name="degisken8">32 bitlik tam sayıları tutmayı sağlayan veri tipidir.\n int m=55; \n şeklinde tanımlaması yapılır.  </string>
+    <string name="degisken9">Çok uzun tam sayıları tutabilmek için tasarlanmıştır.\n  64 bitlik verileri tutar \n Örneğin ışık hızı =299.792.458 metre/saniye  </string>
+    <string name="degisken10">Ondalıklı sayıları tutmak için : \n Float \n Double \n </string>
+    <string name="degisken11">Bellekte 4 byte yer kaplar ve basamak hassasiyeti 7 dir.\n Float sayi=11.2f; </string>
+    <string name="degisken12">Bellekte 8 byte yer kaplar. Basamak hassasiyeti 16 dır.Double sayi=11.2d;  veya  double sayi=11.2;şeklinde tanımlanır.</string>
+    <string name="degisken13">Javada sözel ifadeleri tutmak için \nChar \nString \n kullanılır. </string>
+    <string name="degisken14">Char 16 bitlik karakterleri tutmamızı sağlar.\nchar kelime='c'; \n şeklinde tanımlaması yapılır.</string>
+    <string name="degisken15">String sözel ifadeleri tutmamızı sağlar.\n String kelime="merhaba"; \n şeklinde tanımlaması yapılır.</string>
+    <string name="degisken16">Birde bize true veya false değerini dönen Boolean değişkeni vardır.</string>
+    <string name="degbaslik4">DEĞİŞKENLER</string>
+    <string name="degbaslik5">TAMSAYILAR</string>
+    <string name="degbaslik6">BİT</string>
+    <string name="degbaslik7">SHORT</string>
+    <string name="degbaslik8">İNTEGER</string>
+    <string name="degbaslik9">LONG</string>
+    <string name="degbaslik10">ONDALIKLI SAYILAR</string>
+    <string name="degbaslik11">FLOAT</string>
+    <string name="degbaslik12">DOUBLE</string>
+    <string name="degbaslik13">STRİNG</string>
+    <string name="degbaslik14">CHAR</string>
+    <string name="degbaslik15">DOUBLE</string>
+    <string name="degbaslik16">BOOLEAN</string>
+
+
+    <string name="operatörler1">Merhaba bu eğitimde sana operatörleri öğreteceğim \n Operatörler günlük hayatımızdaki matematiksel işlemler için kullandığımız ifadelerdir \n+ - * / % =</string>
+    <string name="operatörler2"> Aritmetik Operatörler \nKarşılatırma Operatörleri \n Mantıksal Operatörler  </string>
+    <string name="operatörler3">+ operatörü: Toplama işlemi yaparız. \n - operatörü: Çıkarma işlemi yaparız. \n * operatörü: Çarpma işlemi yaparız. \n / operatörü: Bölme işlemi yaparız.\n % operatörü: Mod işlemi yaparız. \n    </string>
+    <string name="operatörler4">int a =10; \n int b=5; \n int toplam= a+b; ->15\n int cikarma=a-b; ->5 \n int carpma= a*b;->50 \n int bolme=a\b;->2 \n int mod=a%b;->0 Sonuç =15 \n  </string>
+    <string name="operatörler5">Java dilinde 6 adet karşılaştırma operatörü bulunmaktadır.Bunlar: \n == eşittir \n &lt;küçüktür \n &lt;= küçük eşittir \n > büyüktür \n >=büyük eşittir \n != eşit değildir</string>
+    <string name="operatörler6">int x=8 ; \n int y =5 \n  x==y false \n x&lt;y false \n x&lt;=y  false \n x>y  true \n x>= y true \n x!=y true   </string>
+    <string name="operatörler7">Değişkenlerin birbiri ile karşılatırılmasını sağlar \n Bu operatörlerin sonuçlarını BOOLEAN veri tipinde tutar \n VE/VEYA/DEĞİL operatörleridir</string>
+    <string name="operatörler8">&amp; VE operatörüdür\nBu operatörün sağındaki ve solundaki ifadeler TRUE ise bize TRUE  sonucunu döner /n Eğer bir taraf FALSE ise sonuç FALSE olucaktır.</string>
+    <string name="operatörler9">|| VEYA operatörüdür\nBu operatörün sağındaki ve solundaki ifadelerden en az bir tanesi TRUE ise bize TRUE  sonucunu döner /n Eğer iki tarafta FALSE ise sonuç FALSE olucaktır.</string>
+    <string name="operatörler10">^ XOR operatörüdür\n Bu operatörün sağındaki ve solundaki ifadeler aynı ise sonuç FALSE olur \n İfadeler farklı ise sonuç TRUE olur  </string>
+    <string name="operatörler11">! NOT operatörüdür \N Kendisinden sonra gelen ifadenin tersini alır\n TRUE ise FALSE yapar \n FALSE ise TRUE yapar</string>
+    <string name="operatörler12">boolean x=true; \n boolean y= false; \n boolean z=true ; \n boolean t =false; \n x &amp; y FALSE \n x || y TRUE \n x ^ z FALSE \n !t TRUE  </string>
+
+    <string name="opbaslik2">OPERATÖRLER</string>
+    <string name="opbaslik3">ARİTMETİK OPERATÖRLER</string>
+    <string name="opbaslik5">İLİŞKİSEL OPERATÖRLER</string>
+    <string name="opbaslik7">MANTIKSAL OPERATÖRLER </string>
+
+
+    <string name="kontrolyapilari1">Merhaba bu eğitimde sana kontrol yapıları öğreteceğim\nHaydi başlayalım</string>
+    <string name="kontrolyapilari2">Kontrol yapıları,bir kod parçacığının yürütülmesi sırasında ,program akışını yönlendiren kalıplardır.\n  </string>
+    <string name="kontrolyapilari3">Karşılaştırma ifadeleri : \n\nif\n\nif-else\n\n switch case  </string>
+    <string name="kontrolyapilari4"> İF koşula bağlı olarak tek bir işlemi yerine getirir. \n Günlük hayatta sınavına çalışırsan eğer sınavı geçersin \n Burada koşul sınava çalışmandır  </string>
+    <string name="kontrolyapilari5"> İf koşulu içinde şart bize BOOLEAN türünden veri döner yani şart TRUE veya FALSE olmalıdır.\n int a=5; \n int b=7 \n if(a &lt; b){ \n System.out.print("a küçüktür b'den");\n }</string>
+    <string name="kontrolyapilari6"> İf-Else kalıbını ise şöyle düşünün :Eğer sınavına çalışırsan sınavını geçersin ancak eğer sınavına çalışmadığın takdirde sınavı geçemezsin cümlesinin gerçekleştirilmesidir. </string>
+    <string name="kontrolyapilari7"> int a=5; int b=7 \n if(a &lt; b){ \n System.out.print("a küçüktür b'den");\n } /n else {  System.out.print("a büyüktür b'den");\n }  </string>
+    <string name="kontrolyapilari8">Switch-Case kalıbında değişkenlere kesin değerler atanır\n Switch deyimi ile başlar uygun case bulununca o casedeki kod bloğu çalışır </string>
+    <string name="kontrolyapilari9">Haftanın günleri örnek verelim \n int hafta = 3; \n switch(hafta){\n case 1:System.out.print("Pazartesi"); }\n case 2:System.out.print("Salı"); }\n case 3:System.out.print("Çarşamba"); }  </string>
+    <string name="kontrolyapilari10">Döngüler belirli ifadeleri veya kod bloklarını tekrar tekrar çalıştıran yapılardır \n -WHİLE \n-DO-WHİLE \nFOR  </string>
+    <string name="kontrolyapilari11">while(koşul){\n koşul doğru ise çalıştırılacak kod bloğu \n} int sayi =4; while(sayi>=0){\nSystem.out.println("Sayi 0'dan büyük veya eşit olduğu sürece bu kod bloğunu çalıştır") \n sayi--; \n } </string>
+    <string name="kontrolyapilari12">do-while kalıbında önce kod bloğu çalıştırılır sonra şarta bakılır yani kod bloğu en az 1 kez çalışmış olucak. \n do{\nçalıştırılcaka kod bloğu \n}while (koşul);  </string>
+    <string name="kontrolyapilari13">int sayi=0; \n do\n{System.out.println"sayi=" +sayi);}while(sayi&lt;0);</string>
+    <string name="kontrolyapilari14">for (başlangıç değeri;koşul;arttırma-azaltma)\n{çalıştırılcak kod bloğu\n} </string>
+    <string name="kontrolyapilari15">for(int sayi=0; sayi&lt;2;sayi++){System.out.println("sayi="+sayi)}\nÇıktı \nsayi=0 \nsayi=1 \nsayi=2</string>
+
+    <string name="kontbaslik12">KONTROL YAPILARI</string>
+    <string name="kontbaslik3">KARŞILAŞTIRMA İFADELERİ</string>
+    <string name="kontbaslik45">İF</string>
+    <string name="kontbaslik67">İF-ELSE</string>
+    <string name="kontbaslik89">SWİTCH-CASE</string>
+    <string name="kontbaslik10">DÖNGÜLER</string>
+    <string name="kontbaslik11">WHİLE</string>
+    <string name="kontbaslik1213">DO-WHİLE</string>
+    <string name="kontbaslik1415">FOR</string>
+
+
+    <string name="fonksiyonlar1">Merhaba,bu eğitimde sana fonksiyon kavramından bahsedeceğim \n Programlamanın bel kemiği diyebiliriz fonksiyonlar diğer adıyla metotlar için</string>
+    <string name="fonksiyonlar2">Günlük hayattan örnek vererek eğitimimze başlayalım \n Bisikletin haret etmesi için pedalı çevirmek gerekir burdaki pedal çevirme işlemi bir fonksiyondur.</string>
+    <string name="fonksiyonlar3">Metotlar bi grup kod bloğunun belirli bir işlevi gerçekleştirmek için bir araya gelmesiyle oluşurlar \n 2 ye ayrılırlar \n-PARAMETRESİZ METODLAR \n-PARAMETRELİ METOTLAR</string>
+    <string name="fonksiyonlar4">Parametresiz metodlar kurgulanması en basit metot türü,değer döndürmeyen ve parametreleri olmayanlardır</string>
+    <string name="fonksiyonlar5">pedaliCevir(); bu kod fonksiyon çağrısıdır.Bizler bu fonksiyonu oluşturup içini doldurmamız gerekir</string>
+    <string name="fonksiyonlar6">ekranaYaziYaz(); bu da bir fonksiyon çağrısıdır.ekranaYaziYaz(){\n System.out.println("Merhaba Java") }; </string>
+    <string name="fonksiyonlar7">public int topla(int x,int y) { \n  int toplam=x+y; \n return toplam ; \n bu fonksiyon parametreli fonksiyon türüdür</string>
+    <string name="fonkbaslik12">METOTLAR</string>
+    <string name="fonkbaslik456">PARAMETRESİZ METODLAR </string>
+    <string name="fonkbaslik7">PARAMETRELİ METODLAR </string>
+
+
+    <string name="diziler1">Merhaba,bu eğitimde sana javadaki dizi kavramından bahsedeceğim \n Hazırsan başlayalım </string>
+    <string name="diziler2">Dizi aynı tipte birden çok değişkeni tutabilen veri yapılarıdır\nDizilerin kaç elemandan oluştuğu değil aynı tipte elemanlardan oluşması önemlidir\nYani bir dizinin ilk elemanı int tipinde iken ikinci elemanı char tipinde olamaz</string>
+    <string name="diziler3">Java\'da veri tipleri ikiye ayrılır \n-İLKEL VERİ TİPLERİ \n-REFERANS VERİ TİPLERİ</string>
+    <string name="diziler4">İlkel veri tipleri sadece 1 tane veri tutabilirken referans veri tipleri ise nesnelerin bellekteki yerlerini tutarlar.</string>
+    <string name="diziler5">new operatörü ile yeni nesneler oluşturabiliyoruz \n veritipi[] diziadi =new veritipi {elemansayisi};</string>
+    <string name="diziler6">[] dizi içerisinde erişilmek istenen elemanı gösterir.Buna indeks-indis denir.\nİndeks sıra numarasıdır\nJava'da dizilerin ilk elemanı 0 indisli elemanlardır</string>
+    <string name="diziler7">int [] hafta = new int [2]; \n burada hafta adında int tipinde 2 elemanlı bir dizi oluşturduk.\nDizinin içindeki elemanlara hafta[0] ve hafta[1] oalrak erişiriz</string>
+    <string name="dizibaslik1234">DİZİLER</string>
+    <string name="dizibaslik567">DİZİ OLUŞTURMA</string>
+
+
+    <string name="yapilandiricilar1">Merhaba,bu eğitimde sana javadaki yapılandırıcı diğer adı ile Constructor kavramından bahsedeceğim \n Hazırsan başlayalım</string>
+    <string name="yapilandiricilar2">Yapılandırıcılara kurucu da denilmektedir \n Nesne kavramını duyduğumuzda aklımıza gelen ilk şey Constructor(yapıcı) metottur. Çünkü bir nesnenin örneklenip Ram e çıkabilmesi için constructor metot çağrısı yapılması gerekir. </string>
+    <string name="yapilandiricilar3">Constructor metodun özellikleri ;Constructor metodun özellikleri ;\n-Geriye değer döndürmez.\n-İsmi,sınıf ismi ile aynı olmak zorundadır.\n-istenildiği bir anda çağrısı yapılamaz. Özel bir çağrılma biçimi vardır.</string>
+    <string name="yapilandiricilar4">-Çağrılırken new anahtar sözcüğü kullanılır.\n-Bellekte nesneye bir yer ayrılmasını sağlarlar. \n-Her çağrılışlarında yeni bir nesne oluştururlar.</string>
+    <string name="yapbaslik123">YAPILANDIRICILAR</string>
+
+
+    <string name="kalitim1">Merhaba,bu eğitimde sana javanın en eğleneceli konularından biri olan kalıtım konusundan bahsedeceğim\nHaydi eğitime başlayalım</string>
+    <string name="kalitim2">İki adet sınıf düşünelim. Birinin adı Ebeveyn diğerinin adı Çocuk olsun.\nEbeveyn sınıfının özelliklerini anne+baba’nın işlevleri oluşturmaktadır.</string>
+    <string name="kalitim3">Çocuk ise bazı özellikler bakımından anne babaya benzerlik göstermektedir.(saç rengi, göz rengi)\nBunların yanından çocukta anne ve babasında olmayan bazı özelliklerde yer alabilir.( Anne baba kısa boylu iken çocuğun uzun olması).</string>
+    <string name="kalitim4">Ebeveyn gibi üst sınıflara süper sınıflar denir.  Bunlardan türetilen alt sınıflara alt sınıflar denir. </string>
+    <string name="kalitim5">Java’da kalıtım bir sınıfın kendine ait özellikleri başka bir sınıfa aynen aktarması ya da bazı özellikleri diğer sınıflara izin vermesidir.</string>
+    <string name="kalitim6">public class AltSinif extends superSinif {\n}\n public class cocukSinifi extends ebeveynSinifi {\n}</string>
+    <string name="kalitim7">Extends deyimi: Kalıtım almak için bu kelime kullanılır</string>
+    <string name="kalitim8">Her alt sınıf doğrudan bir tane süper sınıfa sahip olabilir.\nHer alt sınıf süper sınıfın özelliklerini taşır.\n Süper sınıftan alınan bazı özellikler değiştirilebilir.\nAynen kullanılmak zorunda değildir. </string>
+    <string name="kalitim9">Daha önceden yazılmış kod parçacıkları tekrar tekrar yazılmadan başka sınıflarda kullanılabilir.\nKod tekrarı yapmaktan bizi kurtarır</string>
+    <string name="kalitim10">Herhangi bir alt sınıfta süper sınıfa ait bir metot aynı isim, aynı parametre ve dönüş tipi ile kullanılırsa overriding yapmış oluruz. (üzerine yazmak) </string>
+    <string name="kalitim11"> Alt sınıfta yeni bir nesne ürettiğimizde  süper sınıfa göre değil yeni sınıfa ( alt sınıfa) uygun çalışmaktadır.</string>
+    <string name="kalitim12">Obje sınıfına ait bir metotdur. Nesneleri metin halinde gösterir.  Bir süper sınıf olan object sınıfından çağırıp kullanırız.</string>
+    <string name="kalitim13">Tüm default yapılandırıcılar kalıtım ağacında yukarıdan aşağı doğru  java tarafından gizli olarak ve otomatik aktarılır. Bu yapılandırıcıları kullanmak için super() deyimini kullanırız.</string>
+
+    <string name="kbaslik123458">KALITIM</string>
+    <string name="kbaslik6">KALITIM OLUŞTURMA</string>
+    <string name="kbaslik7">EXTENDS NEDİR?</string>
+    <string name="kbaslik9">KALITIMIN FAYDALARI</string>
+    <string name="kbaslik1011">METOT OVERİDİNG</string>
+    <string name="kbaslik12">toString()</string>
+    <string name="kbaslik13">super()</string>
+
+
+    <string name="polimorfizm1">Merhaba,bu eğitimde sana polimorfizm diğer adıyla çok biçimlilik konusundan bahsedeceğim\nHaydi eğitime başlayalım</string>
+    <string name="polimorfizm2">Java\'da farklı biçimlerde çalışan nesnelere aynı şekilde erişmektir. \n Ya da bir nesnenin farklı bir nesne gibi davranmasıdır diyebiliriz.</string>
+    <string name="polibaslik123">POLİMORFİZM</string>
+
+
+    <string name="soyutsiniflar1">Merhaba,bu eğitimde sana soyut sınıflar diğer adıyla abstract classlar konusundan bahsedeceğim\nHaydi eğitime başlayalım</string>
+    <string name="soyutsiniflar2">Soyut sınıflara aslında eksik sınıflarda diyebiliriz\n Sadece kendisinden türetilmesi muhtemel alt sınıflar için süper sınıf vazifesi görürler.</string>
+    <string name="soyutsiniflar3">Bu sınıflara ait bir nesne oluşturulamaz ve bu sınıfta oluşturulan metotlardan en az bir tanesinin gövdesi yazılmaz</string>
+    <string name="soyutsiniflar4">Bu metodun sadece adı,aldığı parametreler ve dönüş tipi yazılır \n Bu metotada soyut metot denir.</string>
+    <string name="soyutsiniflar5">Soyut tipteki sınıf ve metotları oluşturmak için abstract deyimi kullanılır.</string>
+    <string name="soyutsiniflar6">1-Soyut sınıftan bir başka soyut sınıf kalıtım yolu ile türetilebilir \n 2- Soyut metotu olmayan sınıflar soyut sınıflar olamazlar.</string>
+    <string name="soyutsiniflar7">3-Herhangi bir sınıfın yapılandırıcı ve static metotları soyut olarak tanımlanamazlar</string>
+    <string name="soyutsiniflar8">4-Soyut sınıftan türeyen alt sınıflar;türedikleri soyut sınıfına aitsoyut metotun gövdesini yazmak zorundadırlar</string>
+
+    <string name="sbaslik1234">SOYUT SINIFLAR</string>
+    <string name="sbaslik5">ABSTRACT DEYİMİ</string>
+    <string name="sbaslik678">SOYUT SINIF KISITLAMALARI</string>
+
+
+    <string name="arayuzler1">Merhaba,bu eğitimde sana arayüzlerden diğer adıyla interface konusundan bahsedeceğim\nHaydi eğitime başlayalım</string>
+    <string name="arayuzler2">Java\'da kalıtım yolu ile sadece tek bir sınıfın özelliklerini başka sınıfa aktarabiliyoruz \nYani çoklu kalıtım java dilinde mevcut değil</string>
+    <string name="arayuzler3">Çoklu kalıtımı sağlamak için arayüz kavramını kullanacağız\nBir sınıf birden fazla arayüzden yararlanabilmektedir</string>
+    <string name="arayuzler4">Arayüzler soyut-abstract classların bir üst modeli gibi düşülebilir</string>
+    <string name="arayuzler5">Arayüzlerin çalışma mantığı ;tasarımları itibari ile aralarında herhangi sınıf ilişkisi olmayan sınıfların paylaştıkları benzer özellikleri kodlayabilmeyi amaçlar</string>
+    <string name="arayuzler6">Arayüzlerin anahtar kelimesi INTERFACEdir</string>
+    <string name="arayuzler7">erişimbelirleyiciler interface arayüzAdı {\n\nsabit değişkenler\n\n}</string>
+    <string name="arabaslik12345">INTERFACE</string>
+    <string name="arabaslik6">INTERFACE DEYİMİ</string>
+    <string name="arabaslik7">INTERFACE OLUŞTURMA</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="email_content">Merhaba,Merve Genç tarafından geliştirilen Voha adlı uygulamayı inceleyebilirsiniz.\n\nBurada uygulamanın play store linkini paylaşıyorum:\n\n </string>
+    <string name="link"><u>https://play.google.com/store/apps/details?id=com.merve.voha</u></string>
+    <string name="last_content">\n\n Linke tıklayın ardından indir seçeneğine tıklayıp uygulamayı indirebilirsiniz.</string>
+
+
+
+
+    <string name="bos" translatable="false"></string>
+    <string name="btngoster">GÖSTER</string>
+    <string name="btnbitir">BİTİR</string>
+
+    <string name="cikmakIstediginizeEminMisiniz">Çıkmak istediğinize emin misiniz ?</string>
+    <string name="evet">Evet</string>
+    <string name="hayir">Hayır</string>
+    <string name="ileri">İLERİ</string>
+    <string name="tebriklerDogruCevap">Tebrikler doğru cevap :)</string>
+    <string name="yanlisCevap">Yanlış Cevap :(</string>
+    <string name="calistir">ÇALIŞTIR</string>
+    <string name="yanlisCevap2">YANLIŞ CEVAP</string>
+    <string name="tamam">TAMAM</string>
+    <string name="voha">Voha</string>
+    <string name="arayüzsoru1">Arayüzlerin anahtar kelimesi nedir?</string>
+    <string name="kalitim">extends</string>
+    <string name="interface2">interface</string>
+    <string name="polimorfizm">polimorfizm</string>
+    <string name="abstract2">abstract</string>
+    <string name="mesaj1">Arayüzler Eğitimini Başarıyla Tamamladınız Tebrikler:)</string>
+
+    Which keywords are used to create abstract types of classes and methods?
+    Abstract Classes Successfully Completed Congratulations :)
+    <string name="soyutsoru1">Soyut tipteki sınıf ve metotları oluşturmak için hangi anahtar kelime kullanılır?</string>
+    <string name="mesaj2">Soyut Sınıflar Eğitimini Başarıyla Tamamladınız Tebrikler:)</string>
+
+    <string name="polisoru1">Java\'da farklı biçimlerde çalışan nesnelere aynı şekilde erişmeye ne denir?</string>
+    <string name="Kalitim">Kalıtım</string>
+    <string name="Dongu">Döngü</string>
+    <string name="Polimorfizm">Polimorfizm</string>
+    <string name="Yapilandirici">Yapılandırıcı</string>
+    <string name="mesaj3">Polimorfizm Eğitimini Başarıyla Tamamladınız Tebrikler:)</string>
+
+    <string name="kalitimsoru1">Kalıtım almak için hangi anahtar kelime kullanılır?</string>
+    <string name="super2">super()</string>
+    <string name="extends2">extends</string>
+    <string name="implements2">implements2</string>
+    <string name="string">string</string>
+    <string name="kalitimsoru2">Herhangi bir alt sınıfta süper sınıfa ait bir metot aynı isim, aynı parametre ve dönüş tipi ile kullanılmasına ne denir?</string>
+    <string name="metodoverriding">Metod overriding</string>
+    <string name="toString">toString()</string>
+    <string name="mesaj4">Kalıtım Eğitimini Başarıyla Tamamladınız Tebrikler:)</string>
+
+    <string name="yapisoru1">Hangisi yapılandırıcı metodların özelliklerindendir?</string>
+    <string name="yapi2">Geriye değer döndürürler</string>
+    <string name="yapi3">Her çağrılışlarında yeni bir nesne oluşturmazlar</string>
+    <string name="yapi4">İsmi,sınıf ismi ile aynı olmalıdır</string>
+    <string name="yapi5">Çağrılırken new anahtar sözcüğü kullanılmaz</string>
+    <string name="mesaj5">Yapılandırıcılar Eğitimini Başarıyla Tamamladınız Tebrikler:)</string>
+
+    <string name="dizisoru1">Hangisinde diziye değer atama işlemi doğru yapılmıştır?</string>
+    <string name="dizi2">int [ ] dizi={1,2,3}</string>
+    <string name="dizi3">int [ ]</string>
+    <string name="dizi4">dizi[ ]</string>
+    <string name="dizi5">{1,2}</string>
+    <string name="mesaj6">Diziler Eğitimini Başarıyla Tamamladınız Tebrikler:)</string>
+
+
+    <string name="funcsoru1">Fonksiyon çağrısına örnek olan kod hangisidir ?</string>
+    <string name="func1">String x;</string>
+    <string name="func2">fonksiyon</string>
+    <string name="func3">carpmaIslemiYap();</string>
+    <string name="func4">bolmeYap</string>
+    <string name="mesaj7">Fonksiyonlar Eğitimini Başarıyla Tamamladınız Tebrikler:)</string>
+
+
+    <string name="degiskenlersoru1">Hangisi Java\'da ondalıklı veri tutmamızı sağlayan veri tipidir?</string>
+    <string name="deg1">Integer</string>
+    <string name="deg2">Short</string>
+    <string name="deg3">Double</string>
+    <string name="deg4">Byte</string>
+    <string name="degiskenlersoru2">Float veri tipinin gösterim şekli hangisidir?</string>
+    <string name="deg5">float a=11.2</string>
+    <string name="deg6">float b=15.0d</string>
+    <string name="deg7">float c=18.8f</string>
+    <string name="deg8">float d=4</string>
+    <string name="algsoru1">Algoritma nedir ?</string>
+    <string name="alg1">Programlama dilidir</string>
+    <string name="alg2">Bir dizi iş için belirli sıra ile izlenecek yoldur</string>
+    <string name="alg3">Bir dizi iştir</string>
+    <string name="alg4">Bir değişken türüdür</string>
+
+    <string name="algbilgi">Ekranda veri göstermek için java dilinde System.out.print() metodu kullanılır</string>
+
+    <string name="algkod">System.out.print("Kaptan Pilot");</string>
+    <string name="algcikti">Kaptan Pilot</string>
+    <string name="algsoru">Kod çalıştığında ekranda ne gösterecektir?</string>
+    <string name="algkod2">"System.out.println(\"Kaptan\");  "</string>
+    <string name="algcevap">Kaptan</string>
+    <string name="algipucu">Kaptan</string>
+
+    <string name="algkod3">System.out.print(Kaptan);\n System.out.print(\"Pilot\");  System.out.println(\"Uçuşa\");  \n       System.out.println(Hazır);</string>
+    <string name="algcikti2">KaptanPilotUçuşa  Hazır</string>
+    <string name="algsoru2">***** lı alana ekrana kaptan yazdırmak için ne gelmelidir ?</string>
+    <string name="algkod4">System.out.*****("kaptan");</string>
+    <string name="algcevap2">print</string>
+    <string name="algipucu2">print</string>
+
+    <string name="degsoru">Ekrana ne yazar?</string>
+    <string name="degkod">public static void main(String[] args) { \n   int a=15; \n int b=6; \n   int sonuc=a%b;\n                                           System.out.println(sonuc); }</string>
+    <string name="degcevap">3</string>
+    <string name="degipucu">15 i 6 ya bölünce kalan nedir?</string>
+
+    <string name="kontsoru">Ekranda çıktı olarak ne gösterir?</string>
+    <string name="kontkod">" public static void main(String[] args) { \n int a=15; int b=8; \n if(a&lt;b){ \n   System.out.println(a+b); } \n else{System.out.println(a-b); }"</string>
+    <string name="kontcevap">7</string>
+    <string name="kontipucu">a&gt;b olduğu için else olan kod bloğu çalışmalı</string>
+
+    <string name="fonkbilgi">Aşağıdaki carpmaYap(5,6) şeklinde fonksiyonu çağırdığımızda çıktı olarak bize 30 sayısını verecektir."</string>
+    <string name="fonkkod">public void carpmaYap(int x,int y){ \n int sonuc = x * y; \n return sonuc; }</string>
+    <string name="fonkcevap">30</string>
+    <string name="fonksoru">carpmaYap() fonksiyonuna göre ekrandaki çıktı ne olmalıdır?</string>
+    <string name="fonkkod2">public static void main(String[] args) { \n int sonuc = carpmaYap(5,9); \n System.out.println(sonuc);\n}</string>
+    <string name="fonkcevap2">45</string>
+    <string name="fonkipucu">9*5 sonucu nedir?</string>
+
+    <string name="dizibilgi">Bir dizinin ilk elemanının indisi 0 \'dır.</string>
+    <string name="dizibilgi2">int [ ] dizi={1,2,3};  System.out.println(dizi[ 1 ]);</string>
+    <string name="dizicevap">2</string>
+    <string name="dizisoru">Ekrandaki çıktı ne olacaktır?</string>
+    <string name="dizikod">int [ ] dizi={1,2,3,5}; System.out.println(dizi[ 0 ]);</string>
+    <string name="dizicevap2">1</string>
+
+    <string name="mesaj8">Kontrol Yapıları Eğitimini Başarıyla Tamamladınız Tebrikler:)</string>
+    <string name="mesaj9">Operatörler Eğitimini Başarıyla Tamamladınız Tebrikler:)</string>
+    <string name="mesaj10">Değişkenler Eğitimini Başarıyla Tamamladınız Tebrikler:)</string>
+    <string name="mesaj11">Algoritmalar Eğitimini Başarıyla Tamamladınız Tebrikler:)</string>
+
+
+    <string name="sifreDegis">Şifre Değiş</string>
+    <string name="sifreBilgileriniGiriniz">Şifre Bilgilerini Giriniz.</string>
+    <string name="sifre6karakterdenazolamaz">Şifre 6 Karakterden Az Olamaz.</string>
+    <string name="sifrelerEslesmiyor">Şifreler Eşleşmiyor Kontrol Ediniz.</string>
+    <string name="kayitHatasi">Kayıt Hatası Oluştu</string>
+    <string name="sifreDegistiriliyor">Şifreniz değiştiriliyor,lütfen bekleyiniz.</string>
+    <string name="sifreDegistirilemedi">Şifreniz değiştirilemedi</string>
+    <string name="sifreGuncellendi">Şifreniz başarılı bir şekilde güncellendi</string>
+    <string name="yanlisSifre">Güncel şifrenizi yanlış girdiniz</string>
+    <string name="profil">Profil</string>
+    <string name="profilHata1">Adınız ve soyadınız 3 karakterden az olamaz</string>
+    <string name="profilHata2">Adınız ve soyadınız 15 karakterden fazla olamaz</string>
+    <string name="bilgilerinizGuncellniyor">Bilgileriniz güncelleniyor ...</string>
+    <string name="bilgilerinizGuncellendi">Bilgileriniz başarılı bir şekilde güncellendi</string>
+    <string name="paylas">Arkadaşalarınla Paylaş</string>
+    <string name="wp">WhatsApp yüklenemedi</string>
+    <string name="iletisimeGec">İletişime Geç</string>
+    <string name="birlikteAc">Birlikte aç</string>
+    <string name="skorTablosu">Skor Tablosu</string>
+    <string name="internetBagKontEt">İnternet bağlantınızı kontrol ediniz</string>
+    <string name="yardim">Yardım</string>
+    <string name="info1">Algoritmalar Eğitiminiz Hazılanıyor ...</string>
+    <string name="info2">Değişkenler Eğitiminiz Hazılanıyor ...</string>
+    <string name="info3">Operatörler Eğitiminiz Hazılanıyor ...</string>
+    <string name="info4">Kontrol Yapıları Eğitiminiz Hazılanıyor ...</string>
+    <string name="info5">Fonksiyonlar Eğitiminiz Hazılanıyor ...</string>
+    <string name="info6">Diziler Eğitiminiz Hazılanıyor...</string>
+    <string name="info7">Yapılandırıcılar Eğitiminiz Hazılanıyor...</string>
+    <string name="info8">Kalıtım Eğitiminiz Hazılanıyor...</string>
+    <string name="info9">Çok Biçimlilik Eğitiminiz Hazılanıyor...</string>
+    <string name="info10">Soyut Sınıflar Eğitiminiz Hazılanıyor ...</string>
+    <string name="info11">Arayüzler Eğitiminiz Hazılanıyor ...</string>
+    <string name="kullanicilarlaPaylas">Kullanıcılarla Paylaş</string>
+    <string name="vohaHakkinda">Voha Hakkında</string>
+    <string name="geriBildGonder">Geri Bildirim Gönder</string>
+    <string name="oduller">Ödüller</string>
+    <string name="bilgGir">Lütfen gerekli bilgileri giriniz</string>
+    <string name="kullaniciBulunamadi">Bu kullanıcı bulunamadı, yeni bir hesap oluştur</string>
+    <string name="gecersizSifre">Geçersiz şifre,lütfen şifrenizi kontrol ediniz.</string>
+    <string name="baglantıKontEt">Lütfen bağlantınızı kontrol ediniz</string>
+    <string name="yetkilendirmeHatasi">Yetkilendirme hatası,bağlantılarınızı kontrol ediniz</string>
+    <string name="googlePlayServisHatasi">Google Play Servis Hatası</string>
+    <string name="mailAdresiniGir">Lütfen email adresini giriniz</string>
+    <string name="yeniParolaBagGonderildi">Yeni parola için gerekli bağlantı adresinize gönderildi!</string>
+    <string name="mailGondermeHatasi">Mail gönderme hatası!</string>
+    <string name="mailGonderildi">Email adresinize bir mail gönderdik lütfen doğrulayınız</string>
+    <string name="zatenKayitlisin">Kayıt işlemi başarısız,bu mail adresi kayıtlı</string>
+    <string name="kayitOluyosun">Kayıt oluyorsunuz,lütfen bekleyin...</string>
+    <string name="kayitHatasi2">Kayıt hatası oluştu</string>
+    <string name="yanlisMailFormati">Yanlış mail formatı!</string>
+    <string name="gerekliAlanlariDoldurunuz">Gerekli alanları doldurunuz!</string>
+    <string name="ogren">Öğren</string>
+    <string name="iletisim">İletişim</string>
+    <string name="Paylas">Paylaş</string>
+    <string name="geriDonus">Geri Dönüş</string>
+    <string name="iletisimeGec2">İletişime Geç</string>
+
+    <string name="algoritmalar">Algoritmalar</string>
+    <string name="degiskenler">Değişkenler</string>
+    <string name="operatorler">Operatörler</string>
+    <string name="kontrolYapilari">Kontrol Yapıları</string>
+    <string name="fonksiyonlar">Fonksiyonlar</string>
+    <string name="diziler">Diziler</string>
+    <string name="yapilandiricilar">Yapılandırıcılar</string>
+    <string name="kalitimm">Kalıtım</string>
+    <string name="cokBicimlilik">Çok Biçimlilik</string>
+    <string name="soyutSiniflar">Soyut Sınıflar</string>
+    <string name="arayuzler">Arayüzler</string>
+    <string name="mezun">Mezun :)</string>
+    <string name="ziyaretEt">Ziyaret Et</string>
+    <string name="yardimIste">Yardım İste</string>
+    <string name="yardimNot">Herhangi bir sorunda yardım istiyorsanız, bana yazabilirsiniz, size yardımcı olmaktan mutluluk duyacağım.</string>
+    <string name="kullaniciAdi">Kullanıcı Adı</string>
+    <string name="sifreyiDegis">Şifreyi Değiştir</string>
+    <string name="davetEt">Arkadaşlarını Davet Et</string>
+    <string name="cikis">Çıkış</string>
+    <string name="guncelle">GÜNCELLE</string>
+    <string name="splash">Kodlama öğrenmenin en eğlenceli yolu</string>
+
+    <string name="eskiSifre">Eski Şifre</string>
+    <string name="yeniSifre">Yeni Şifre</string>
+    <string name="yeniSifreTekrar">Yeni Şifre Tekrar</string>
+    <string name="sifreDegistir">Şifreyi Değiştir</string>
+
+    <string name="emailKayit">Email ile kayıt ol</string>
+    <string name="girisYap">Giriş Yap</string>
+    <string name="kayitOl">KAYIT OL</string>
+    <string name="adSoyad">Ad Soyad</string>
+    <string name="mail">Email</string>
+    <string name="zatenHesabinVarmi">Zaten hesabın var mı? Giriş Yap!</string>
+    <string name="sifre">Şifre</string>
+    <string name="sifreTekrar">Şifre Tekrar</string>
+    <string name="sifreUnuttunuzmu">Şifrenizi mi unuttunuz?</string>
+    <string name="gonder">GÖNDER</string>
+    <string name="hosgeldin">VOHAYA HOŞGELDİN!</string>
+    <string name="gorsel">GÖRSEL KODLAMA ÖĞRENİMİ</string>
+    <string name="gorselGuc">Görsel Güç</string>
+    <string name="basla">HAYDİ BAŞLAYALIM!</string>
+
+</resources>
+

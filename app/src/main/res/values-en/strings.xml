@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Voha</string>
+    <string name="algoritma1">Are you ready to learn the most popular programming language, Java?If you\'re ready, let\'s start!</string>
+    <string name="algoritma2">What we call programming language is how to communicate with each other in languages such as Turkish, English and German.</string>
+    <string name="algoritma3">Some of the programming languages: C C # Java Python Javascript</string>
+    <string name="algoritma4">Java is named after a coffee. It is a very popular programming language.</string>
+    <string name="algoritma5">In order to learn programming, we need to know the logic of the algorithm. So let\'s start by learning the algorithm on this journey</string>
+    <string name="algoritma6">The algorithm is the way in which a particular set of tasks is performed to perform in a specific sequence.\ t \ n Get out of bed \ n Brush your teeth \ n Set your breakfast \ nService bin \ nSo go to school</string>
+    <string name="javagenel">Now let\'s move to the basic coding process we need to know in Java</string>
+    <string name="javagenel1">In Java, System.out.print () is used in the Java language to write on the screen.</string>
+    <string name="javagenel2">System.out.println (); is printed on the screen.</string>
+    <string name="javagenel13">System.out.printf (output format, output to be output); works in the form of.</string>
+    <string name="degisken1">Hello in this tutorial I\'ll teach you the variables Variables programming is also a must. So let\'s start !</string>
+    <string name="degisken2">Variables are computer-based images of data such as decimal numbers, integers, letters, names that we use in real life.</string>
+    <string name="degisken3">There are designs to keep these data types.\n Let\'s start learning them!</string>
+    <string name="degisken4">To keep complete numbers:\n BYTE SHORT INTEGER LONG</string>
+    <string name="degisken5">BYTE: -128 to 127, so you can take the value of the byte type 8-bit numbers can say that the BIT concept comes out here. \n What is this ICT?</string>
+    <string name="degisken6">BIT: In the data storage and transfer of computers, the bit is the smallest file unit.\n 1 BYTE = 8 BITs \n To keep an 8-digit number we need 1 BYTE.</string>
+    <string name="degisken7">SHORT is a data type for keeping 16-bit integers.\n short m = 5; is defined as.</string>
+    <string name="degisken8">It is a data type that allows to hold 32-bit integers.\n int m = 55; \n is defined as.</string>
+    <string name="degisken9">It is designed to hold very long numbers.\n   Holds 64-bit data  \n For example light speed = 299.792.458 meters / second</string>
+    <string name="degisken10">To keep the Decimal Numbers: Float Double</string>
+    <string name="degisken11">The memory takes 4 bytes of space and the step precision is 7.\n Float number = 11.2f;</string>
+    <string name="degisken12">It occupies 8 bytes in memory. Step precision is 16 \n Double number = 11.2d; \n or double count = 11.2;</string>
+    <string name="degisken13">I used Char String to keep verbal expressions in Java.</string>
+    <string name="degisken14">Char allows us to hold 16-bit characters.\n char word = \'c\'; is defined as.</string>
+    <string name="degisken15">String allows us to hold verbal expressions.\n String word = "hello";  \n is defined as.</string>
+    <string name="degisken16">There is also a Boolean variable that returns a value of true or false.</string>
+    <string name="degbaslik4">VARIABLES</string>
+    <string name="degbaslik5">INTEGERS</string>
+    <string name="degbaslik6">BIT</string>
+    <string name="degbaslik7">SHORT</string>
+    <string name="degbaslik8">INTEGER</string>
+    <string name="degbaslik9">LONG</string>
+    <string name="degbaslik10">NUMEROUS NUMBERS</string>
+    <string name="degbaslik11">FLOAT</string>
+    <string name="degbaslik12">DOUBLE</string>
+    <string name="degbaslik13">STRİNG</string>
+    <string name="degbaslik14">CHAR</string>
+    <string name="degbaslik15">DOUBLE</string>
+    <string name="degbaslik16">BOOLEAN</string>
+    <string name="operatörler1">Hello, I\'m going to teach you operators in this tutorial. \n Operators are the expressions we use for the mathematical operations in our daily lives \n + - * /% =</string>
+    <string name="operatörler2">Arithmetic Operators Comparing Operators Logical Operators</string>
+    <string name="operatörler3">+ operator: We do the collection process. \n - operator: We do the subtraction process. \n * Operator: We do multiplication. \n / operator: We do division.\n % operator: Mode operation.</string>
+    <string name="operatörler4">int a = 10; int b = 5; \n int total = a + b; -> 15 \n int extract = a-b; -> 5 \n int bump = a * b; -> 50 \n int section = ab; -> 2 \n int mod = a% b; -> 0 \n Result = 15</string>
+    <string name="operatörler5">There are 6 comparison operators in Java. These are: \n  == equal \n  &lt; = small is equal /n greater is equal > = \n ! = Not equal</string>
+    <string name="operatörler6">int x=8 ; \n int y =5 \n  x==y false \n x&lt;y false \n x&lt;=y  false \n x>y  true \n x>= y true \n x!=y true   </string>
+    <string name="operatörler7">It enables the variables to be compared with each other. It keeps the results of these operators in BOOLEAN data type AND / OR / NOT operators</string>
+    <string name="operatörler8">&amp; AND is the operator If the expressions to the right and left of this operator are TRUE, the result returns TRUE / n If one side is FALSE, the result will be FALSE.</string>
+    <string name="operatörler9">|| OR is the operator. Returns TRUE if at least one of the expressions to the right and left of this operator is TRUE. / n If FALSE on both sides, the result will be FALSE.</string>
+    <string name="operatörler10">^ XOR operator. If the expressions to the right and left of this operator are the same, the result is FALSE. If the expressions are different, the result is TRUE</string>
+    <string name="operatörler11">! NOT operator. It takes the reverse of the expression after TRUE if FALSE FALSE if TRUE does</string>
+    <string name="operatörler12">boolean x = true; boolean = y; boolean z = true; boolean t = false; x &amp; y FALSE x || y TRUE x ^ z FALSE! t TRUE</string>
+    <string name="opbaslik2">OPERATORS</string>
+    <string name="opbaslik3">ARITMETIC OPERATORS</string>
+    <string name="opbaslik5">RELATED OPERATORS</string>
+    <string name="opbaslik7">LOGIC OPERATORS</string>
+    <string name="kontrolyapilari1">Hello, I\'m going to teach you control structures in this tutorial. So let\'s start</string>
+    <string name="kontrolyapilari2">The control structures are patterns that direct the program flow during execution of a code snippet.</string>
+    <string name="kontrolyapilari3">Comparison statements:\n if \n if-else \n switch case</string>
+    <string name="kontrolyapilari4">IF: fulfills a single operation depending on the condition. If you take your exam in everyday life, you pass the exam. Here is the condition of the exam.</string>
+    <string name="kontrolyapilari5">In the case of the condition, the condition returns us data from the BOOLEAN type, ie the condition must be TRUE or FALSE.\n int a = 5; int b = 7 if (a &lt; b) \n {System.out.print (from a less than b); }</string>
+    <string name="kontrolyapilari6">Imagine the If-Else pattern: If you study, you pass the exam, but if you do not study, you can not pass the exam is to perform the sentence.</string>
+    <string name="kontrolyapilari7">int b = 7 \n if (a &lt; b) \n {System.out.print (from a less than b); } \n else {\n System.out.print (greater than b); \n}</string>
+    <string name="kontrolyapilari8">Variable values are assigned to the switch-case pattern. When the switch statement starts with the appropriate case, the code block in that pane runs.</string>
+    <string name="kontrolyapilari9">Let\'s take a look at the days of the week: int week = 3; \n switch (week)  { \ncase 1: System.out.print (Monday); \n} case 2: System.out.print (Tuesday); \n} case 3: System.out.print (Wednesday); }</string>
+    <string name="kontrolyapilari10">Loops are structures that repeatedly execute certain expressions or code blocks \n *WHİLE \n *DO-WHİLE \n *FOR</string>
+    <string name="kontrolyapilari11">while (condition) \n{code block to execute if condition is true}  \n int number = 4; \n while (number> = 0) \n{System.out.println number (run this block of code as long as it is greater than or equal to 0); }</string>
+    <string name="kontrolyapilari12">In the do-while pattern, the code block is executed first, so the code block will be executed at least once. do {code to block} while (condition);</string>
+    <string name="kontrolyapilari13">int number=0; \n do\n{System.out.println"number=" +number);}while(number&lt;0);</string>
+    <string name="kontrolyapilari14">for (initial value; condition; increment-reduction) {code to be executed}</string>
+    <string name="kontrolyapilari15">for (int number = 0; sayi &lt; 2; sayi ++) \n {System.out.println("number="+number)}\Output \n number = 0 \n number = 1 \n number = 2</string>
+    <string name="kontbaslik12">CONTROL STRUCTURES</string>
+    <string name="kontbaslik3">COMPARISON EXPRESSIONS</string>
+    <string name="kontbaslik45">IF</string>
+    <string name="kontbaslik67">IF-ELSE</string>
+    <string name="kontbaslik89">SWITCH-CASE</string>
+    <string name="kontbaslik10">LOOPS</string>
+    <string name="kontbaslik11">WHILE</string>
+    <string name="kontbaslik1213">DO-WHILE</string>
+    <string name="kontbaslik1415">FOR</string>
+    <string name="fonksiyonlar1">Hi, in this tutorial I will tell you the concept of function. We can call the backbone of programming functions for other methods</string>
+    <string name="fonksiyonlar2">Let\'s start our education by giving examples from daily life. It is necessary to rotate the pedal to move the bicycle.</string>
+    <string name="fonksiyonlar3">The methods occur when a group of code blocks come together to perform a particular function.\n They are divided into 2:\n  -NOT PARAMETERS METHODS \n  -PARAMETERIZED METHODS</string>
+    <string name="fonksiyonlar4">The simplest method of constructing methods without parameters is those that do not return values and have no parameters</string>
+    <string name="fonksiyonlar5">flipPedal(); This is a function call. We need to create and fill in this function.</string>
+    <string name="fonksiyonlar6">writeTextOnScreen(); this is also a function call.\n writeTextOnScreen() {System.out.println (Hello Java)};</string>
+    <string name="fonksiyonlar7"> public int collect(int x, int y) {\nint total = x + y;\n return total;\n} \n This function is a type of parameterized function</string>
+    <string name="fonkbaslik12">FUNCTIONS</string>
+    <string name="fonkbaslik456">PARAMETERS FUNCTIONS</string>
+    <string name="fonkbaslik7">PARAMETER FUNCTIONS</string>
+    <string name="diziler1">Hi, in this tutorial I\'m going to tell you about the arrays concept in java. If you\'re ready, let\'s start</string>
+    <string name="diziler2">The array is data structures that can hold multiple variables of the same type. It is important that the arrays are composed of elements of the same type and not the element. That is, the first element of an array is int, while the second element is not char.</string>
+    <string name="diziler3">Data types in Java are divided into two:\n -CHARGE DATA TYPES \n -REFERENCE DATA TYPES</string>
+    <string name="diziler4">Primitive data types can hold only one data, while reference data types hold objects in memory.</string>
+    <string name="diziler5">With the new operator we are able to create new objects. dataset [] arrayname = new veritype {element};</string>
+    <string name="diziler6">[ ] shows the element to be accessed in the array. This is called index-index. The index is the sequence number. In Java, the first element of arrays is the 0-index elements.</string>
+    <string name="diziler7">int [ ] week = new int [ 2 ];  \nHere we have created a \n 2-element array named int. We access the elements in the array at week [0] and week [1].</string>
+    <string name="dizibaslik1234">ARRAYS</string>
+    <string name="dizibaslik567">CREATİNG AN ARRAYS</string>
+    <string name="yapilandiricilar1">Hi, in this tutorial I\'m going to tell you about the Constructor concept with the other constructor in java. If you\'re ready, let\'s start</string>
+    <string name="yapilandiricilar2">Constructors are also called founders. The first thing that comes to mind when we hear the concept of the object is the Constructor method. Because an object can be instantiated to Ram, constructor method call must be made.</string>
+    <string name="yapilandiricilar3">Characteristics of Constructor method; - Does not return value. - The name must be the same as the class name. - cannot be called at any time. There is a special way of calling.</string>
+    <string name="yapilandiricilar4">- The new keyword is used when calling. -There\'s a space in the memory. - Create a new object in each call.</string>
+    <string name="yapbaslik123">CONSTRUCTORS</string>
+    <string name="kalitim1">Hi, in this tutorial I will tell you about inheritance, which is one of the most fun issues of java. Let\'s start training.</string>
+    <string name="kalitim2">Let\'s think of two classes. One\'s name is Parents\' other\'s name. The characteristics of the parent class are the functions of the mother + father.</string>
+    <string name="kalitim3">The child is similar in appearance to the parents (hair color, eye color).   In addition, the child may have some features that are not in the mother and father of the child (while the mother is short and the child is long).</string>
+    <string name="kalitim5">In Java, inheritance is a class\'s ability to transfer its properties to another class or to allow other classes to have some properties.</string>
+    <string name="kalitim4">Parent classes such as parent are called super classes. The subclasses derived from them are called subclasses.</string>
+    <string name="kalitim6">public class ChildClass extends superClass {} public class</string>
+    <string name="kalitim7">Extends statement: This word is used for inheritance</string>
+    <string name="kalitim8">Each subclass can have one super class directly. Each subclass carries the characteristics of the super class. Some features from the super class can be changed. It does not have to be used exactly.</string>
+    <string name="kalitim9">Previously written code snippets can be used in other classes without overwriting them. Recovers from repeating code</string>
+    <string name="kalitim10">In any subclass, if a super class method is used with the same name, same parameter and return type, we have overriding. (overwrite)</string>
+    <string name="kalitim11">When we produce a new object in the subclass, it works in accordance with the new class (lower class) rather than the super class.</string>
+    <string name="kalitim12">It is a method of object class. Displays objects in text. We call and use a class from the super class.</string>
+    <string name="kalitim13">All default configurators are automatically and automatically transferred from the top down to the java in the inheritance tree. We use the super () statement to use these configurators.</string>
+    <string name="kbaslik123458">INHERITANCE</string>
+    <string name="kbaslik6">CREATİNG INHERITANCE</string>
+    <string name="kbaslik7">WHATIS EXTEND?</string>
+    <string name="kbaslik9">BENEFITS OF INHERITANCE</string>
+    <string name="kbaslik1011">METOD OVERRIDING</string>
+    <string name="kbaslik12">toString()</string>
+    <string name="kbaslik13">super()</string>
+    <string name="polimorfizm1">Hello, in this tutorial I\'ll talk about polymorphism or polymorphism, let\'s start training</string>
+    <string name="polimorfizm2">In Java, accessing objects that work differently is the same way. Or we can say that an object behaves like a different object.</string>
+    <string name="polibaslik123">POLYMORPHISM</string>
+    <string name="soyutsiniflar1">Hello, in this tutorial I\'ll talk to you about abstract classes or abstract classes.\n Let\'s start training</string>
+    <string name="soyutsiniflar2">We can say that abstract classes are actually missing classes. They serve as a super class only for the subclasses that are likely to be derived from it.</string>
+    <string name="soyutsiniflar3">An object belonging to these classes cannot be created and the body of at least one of the methods created in this class is not written</string>
+    <string name="soyutsiniflar4">Only the name, the parameters and the return type of this method are written. This method is called the abstract method.</string>
+    <string name="soyutsiniflar5">The abstract statement is used to create abstract types of classes and methods.</string>
+    <string name="soyutsiniflar6">1-Abstract class can be derived from another abstract class inheritance.\n 2- Classes without abstract method cannot be abstract classes.</string>
+    <string name="soyutsiniflar7">3-Configurative and static methods of any class cannot be defined as abstract</string>
+    <string name="soyutsiniflar8">4-The subclasses that derive from the abstract class have to write the body of the abstract method of the abstract class from which they</string>
+    <string name="sbaslik1234">ABSTRACT CLASSES</string>
+    <string name="sbaslik5">ABSTRACT EXPRESSION</string>
+    <string name="sbaslik678">ABSTRACT CLASS RESTRICTIONS</string>
+    <string name="arayuzler1">Hi, in this tutorial I\'ll tell you about the interface.\n Let\'s start training</string>
+    <string name="arayuzler2">In Java, we are able to transfer only the properties of one class to another class by inheritance. So multiple inheritance is not available in java</string>
+    <string name="arayuzler3">We will use the interface concept to provide multiple inheritance. A class can benefit from multiple interfaces</string>
+    <string name="arayuzler4">Interfaces can be deducted as an upper model of abstract-abstract classes</string>
+    <string name="arayuzler5">The logic of the interfacing of the interfaces aims to encode the similar features shared by the classes that have no class relations between them.</string>
+    <string name="arayuzler6">INTERFACE is the keyword of the interfaces</string>
+    <string name="arayuzler7">Accessidentifiers interface interfaceName {fixed variables}</string>
+    <string name="arabaslik12345">INTERFACES</string>
+    <string name="arabaslik6">INTERFACE STATEMENT</string>
+    <string name="arabaslik7">INTERFACE CREATİNG</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="email_content">Hello, you can examine the application called Voha which was developed by Merve Genç. Here I share the play store link:</string>
+    <string name="link"><u>https://play.google.com/store/apps/details?id=com.merve.voha</u></string>
+    <string name="last_content">Click on the link, then download and you can download the application.</string>
+    <string name="btngoster">SHOW</string>
+    <string name="btnbitir">FINISH IT</string>
+    <string name="slide_1_title">WELCOME TO VOHA</string>
+    <string name="gmail">GETTING STARTED WITH GMAIL</string>
+    <string name="global_title">ALGORITHMS</string>
+    <string name="alg">ALGORITHMS</string>
+
+    <string name="cikmakIstediginizeEminMisiniz">Are you sure you want to quit?</string>
+    <string name="evet">Yes</string>
+    <string name="hayir">No</string>
+    <string name="ileri">NEXT</string>
+    <string name="tebriklerDogruCevap">Congratulations correct answer :)</string>
+    <string name="yanlisCevap">Wrong answer :(</string>
+    <string name="calistir">RUN</string>
+    <string name="yanlisCevap2">WRONG ANSWER</string>
+    <string name="tamam">OKEY</string>
+    <string name="voha">Voha</string>
+    <string name="arayüzsoru1">What are the keywords of the interfaces?</string>
+    <string name="kalitim">extends</string>
+    <string name="interface2">interface</string>
+    <string name="polimorfizm">polymorphism</string>
+    <string name="abstract2">abstract</string>
+    <string name="mesaj1">You have successfully completed the Interfaces Training Congratulations :)</string>
+    <string name="soyutsoru1">Which keywords are used to create abstract types of classes and methods?</string>
+    <string name="mesaj2">Abstract Classes Training Successfully Completed Congratulations :)</string>
+    <string name="polisoru1">What does it mean to access objects running in different formats in Java in the same way?</string>
+    <string name="Kalitim">Inheritance</string>
+    <string name="Dongu">Loop</string>
+    <string name="Polimorfizm">Polymorphism</string>
+    <string name="Yapilandirici">Constructor</string>
+    <string name="mesaj3">You have successfully completed Polymorphism Training Congratulations :)</string>
+    <string name="kalitimsoru1">What keyword is used to obtain inheritance?</string>
+    <string name="super2">super()</string>
+    <string name="extends2">extends</string>
+    <string name="implements2">implements2</string>
+    <string name="string">string</string>
+    <string name="kalitimsoru2">What does a super class classify in any subclass be used with the same name, same parameter, and return type?</string>
+    <string name="metodoverriding">Metod overriding</string>
+    <string name="toString">toString()</string>
+    <string name="mesaj4">Successfully Completed Inheritance Education Congratulations :)</string>
+    <string name="yapisoru1">What are the characteristics of structuring methods?</string>
+    <string name="yapi2">Returns the value</string>
+    <string name="yapi3">Do not create a new object in each call</string>
+    <string name="yapi4">The name must match the class name</string>
+    <string name="yapi5">New keyword not used when calling</string>
+    <string name="mesaj5">You have successfully completed the Functions Training Congratulations :)</string>
+    <string name="dizisoru1">Which one is correctly assigned to the array?</string>
+    <string name="dizi2">int [] array = {1,2,3}</string>
+    <string name="dizi3">int [ ]</string>
+    <string name="dizi4">array [ ]</string>
+    <string name="dizi5">{1,2}</string>
+    <string name="mesaj6">You have successfully completed the Arrays Training Congratulations :)</string>
+    <string name="funcsoru1">Which code is the example of a function call?</string>
+    <string name="func1">String x;</string>
+    <string name="func2">function</string>
+    <string name="func3">doMultiplyOperation()</string>
+    <string name="mesaj7">You have successfully completed the Constructors Training Congratulations :)</string>
+    <string name="degiskenlersoru1">Which is the data type that allows us to hold decimal data in Java?</string>
+    <string name="deg1">Integer</string>
+    <string name="func4">doDivideOperation ()</string>
+    <string name="deg2">Short</string>
+    <string name="deg3">Double</string>
+    <string name="deg4">Byte</string>
+    <string name="degiskenlersoru2">What is the way the float data type is displayed?</string>
+    <string name="deg5">float a=11.2</string>
+    <string name="deg6">float b=15.0d</string>
+    <string name="deg7">float c=18.8f</string>
+    <string name="deg8">float d=4</string>
+    <string name="algsoru1">What is Algorithm?</string>
+    <string name="alg1">Programming language</string>
+    <string name="alg2">A series of jobs to be followed with a specific sequence</string>
+    <string name="alg3">A series of jobs</string>
+    <string name="alg4">It is a type of variable</string>
+    <string name="algbilgi">The System.out.print () method is used in java to show data on the screen.</string>
+    <string name="algkod">System.out.print (Captain Pilot);</string>
+    <string name="algcikti">Captain Pilot</string>
+    <string name="algsoru">What will the code show on the screen when it runs?</string>
+    <string name="algkod2">System.out.println (\"Captain\");</string>
+    <string name="algcevap">Captain</string>
+    <string name="algipucu">Captain</string>
+    <string name="algkod3">System.out.print (Captain); \n System.out.print (\"Pilot\"); \n System.out.println (\"OnFlight\"); \n System.out.println (Ready);</string>
+    <string name="algcikti2">CaptainPilotOnFlight \n Ready</string>
+    <string name="algsoru2">What should come to print the captain to the screen in the field?</string>
+    <string name="algkod4">System.out. ***** (captain);</string>
+    <string name="algcevap2">print</string>
+    <string name="algipucu2">print</string>
+    <string name="degsoru">What does this code write to the screen?</string>
+    <string name="degkod">public static void main (String [] args) {\n int a = 15; \n int b = 6; \n int result = a% b; \n System.out.println (result); }</string>
+    <string name="degcevap">3</string>
+    <string name="degipucu">15 i What is left to divide by 6?</string>
+    <string name="kontkod">public static void main (String [] args) {\n int a = 15; \n int b = 8; \n if (a &lt; b) {\n System.out.println (a + b); } \n else {\n System.out.println (a-b); }</string>
+    <string name="kontcevap">7</string>
+    <string name="kontipucu">The code block should be run with 15-8 because it is a &lt; b</string>
+    <string name="kontsoru">What does it show as output on the screen?</string>
+    <string name="fonkbilgi">The following will give us the number 30 as the output when we call the function in the form of multiply(5,6).</string>
+    <string name="fonkkod">public void multiply(int x, int y) {\n int result = x * y; \n return result; }</string>
+    <string name="fonkcevap">30</string>
+    <string name="fonksoru">What should be the output on the screen according to the multiply () function?</string>
+    <string name="fonkkod2">public static void main (String [] args) {\n int result = multiply(5,9); \n System.out.println (result);</string>
+    <string name="fonkcevap2">45</string>
+    <string name="fonkipucu">What is the result of 9 * 5?</string>
+    <string name="dizibilgi">The index of the first element of an array is 0.</string>
+    <string name="dizibilgi2">int [] array = {1,2,3}; \n System.out.println (array [1]);</string>
+    <string name="dizicevap">2</string>
+    <string name="dizisoru">What will be the output on the screen?</string>
+    <string name="dizikod">int [] array = {1,2,3,5}; \n System.out.println (array [0]);</string>
+    <string name="dizicevap2">1</string>
+    <string name="mesaj9">Operators Training Successfully Completed Congratulations :)</string>
+    <string name="mesaj10">Variables Training Successfully Completed Congratulations :)</string>
+    <string name="mesaj11">Algorithms Training Successfully Completed Congratulations :)</string>
+    <string name="mesaj8">Control Structures Training Successfully Completed Congratulations :)</string>
+    <string name="sifreDegis">Change Password</string>
+    <string name="sifreBilgileriniGiriniz">Enter Password Information.</string>
+    <string name="sifre6karakterdenazolamaz">Password less than 6 characters.</string>
+    <string name="sifrelerEslesmiyor">Passwords Do Not Match Check.</string>
+    <string name="sifreDegistiriliyor">Changing your password, please wait.</string>
+    <string name="sifreDegistirilemedi">Couldn\'t change your password</string>
+    <string name="kayitHatasi">Registration Error Occurred.</string>
+    <string name="sifreGuncellendi">Your password has been successfully updated.</string>
+    <string name="yanlisSifre">You have entered your current password incorrectly.</string>
+    <string name="profil">Profile</string>
+    <string name="profilHata1">Your name and surname cannot be less than 3 characters</string>
+    <string name="profilHata2">Your name and surname cannot be more than 15 characters.</string>
+    <string name="bilgilerinizGuncellniyor">Updating your information ...</string>
+    <string name="bilgilerinizGuncellendi">Your information has been successfully updated.</string>
+    <string name="paylas">Share with friends</string>
+    <string name="wp">WhatsApp failed to load</string>
+    <string name="birlikteAc">Open with</string>
+    <string name="skorTablosu">Scoreboard</string>
+    <string name="internetBagKontEt">Check your internet connection</string>
+    <string name="yardim">Help</string>
+    <string name="info1">Your Algorithms Training is Preparing ...</string>
+    <string name="info2">Your Variables Training is Preparing ...</string>
+    <string name="info3">Your Operators Training is Preparing ...</string>
+    <string name="info4">Your Control Structures Training is Preparing ...</string>
+    <string name="info5">Your Functions Training is Preparing ...</string>
+    <string name="info6">Your Arrays Training is Preparing ...</string>
+    <string name="info7">Your Construstors Training is Preparing ...</string>
+    <string name="info8">Your Inheritance Training is Preparing ...</string>
+    <string name="info9">Your Polymorphism Training is Preparing ...</string>
+    <string name="info10">Your Abstract Classes Training is Preparing ...</string>
+    <string name="info11">Your Interface Training is Preparing ...</string>
+    <string name="ogren">Learn</string>
+    <string name="Paylas">Share</string>
+    <string name="iletisim">Contact</string>
+    <string name="geriDonus">Feedback</string>
+    <string name="yanlisMailFormati">Wrong mail format!</string>
+    <string name="gerekliAlanlariDoldurunuz">Fill in the required fields!</string>
+    <string name="iletisimeGec2">Contact Us</string>
+    <string name="kayitHatasi2">Registration error occurred</string>
+    <string name="kayitOluyosun">You are registering, please wait ...</string>
+    <string name="zatenKayitlisin">Registration failed, this e-mail address is registered</string>
+    <string name="mailGonderildi">Please send an email to your email address, please verify</string>
+    <string name="mailGondermeHatasi">Mail sending error!</string>
+    <string name="yeniParolaBagGonderildi">The link required for the new password has been sent to your address!</string>
+    <string name="mailAdresiniGir">Please enter your email address</string>
+    <string name="googlePlayServisHatasi">Google Play Service Error</string>
+    <string name="yetkilendirmeHatasi">Authorization error, check your connections.</string>
+    <string name="baglantıKontEt">Please check your connection.</string>
+    <string name="gecersizSifre">Invalid password, please check your password.</string>
+    <string name="kullaniciBulunamadi">This user is not found, create a new account</string>
+    <string name="bilgGir">Please enter necessary information</string>
+    <string name="oduller">Awards</string>
+    <string name="geriBildGonder">Send feedback</string>
+    <string name="vohaHakkinda">About Voha</string>
+    <string name="kullanicilarlaPaylas">Share With Users</string>
+
+    <string name="algoritmalar">Algorithms</string>
+    <string name="degiskenler">Variables</string>
+    <string name="operatorler">Operators</string>
+    <string name="kontrolYapilari">Control Structre</string>
+    <string name="fonksiyonlar">Functions</string>
+    <string name="diziler">Arrays</string>
+    <string name="yapilandiricilar">Construstors</string>
+    <string name="kalitimm">Inheritance</string>
+    <string name="cokBicimlilik">Polymorphism</string>
+    <string name="soyutSiniflar">Abstract Classes</string>
+    <string name="arayuzler">Interfaces</string>
+    <string name="mezun">Graduated:)</string>
+    <string name="ziyaretEt">Visit</string>
+    <string name="yardimIste">Request Help</string>
+    <string name="yardimNot">If you want help on any question, you can write to me, I will be happy to help you.</string>
+
+    <string name="kullaniciAdi">Username</string>
+    <string name="sifreyiDegis">Change Password</string>
+    <string name="davetEt">Invite your friends</string>
+    <string name="cikis">Exit</string>
+    <string name="guncelle">UPDATE</string>
+    <string name="splash">The most fun way to learn coding</string>
+    <string name="iletisimeGec">Contact Us</string>
+
+
+    <string name="eskiSifre">Old Password</string>
+    <string name="yeniSifre">New Password</string>
+    <string name="yeniSifreTekrar">New Password Again</string>
+    <string name="sifreDegistir">Change Password</string>
+    <string name="emailKayit">Sign up by email</string>
+    <string name="girisYap">LOGIN</string>
+    <string name="kayitOl">REGISTER</string>
+    <string name="adSoyad">"Username"</string>
+    <string name="mail">Email</string>
+    <string name="zatenHesabinVarmi">You already have an account? Log in!</string>
+    <string name="sifre">Password</string>
+    <string name="sifreTekrar">Password again</string>
+    <string name="sifreUnuttunuzmu">Forgot your password?</string>
+    <string name="gonder">SEND</string>
+    <string name="hosgeldin">WELCOME TO VOHA!</string>
+    <string name="gorsel">VISUAL CODING LEARNING</string>
+    <string name="gorselGuc">Visual Power</string>
+    <string name="basla">SO LET'S START!</string>
+
+
+</resources>
